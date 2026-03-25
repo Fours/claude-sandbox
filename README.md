@@ -1,2 +1,2 @@
 # claude-sandbox
-A sanbox for claude code experiments
+A sanbox for claude code experiments.
